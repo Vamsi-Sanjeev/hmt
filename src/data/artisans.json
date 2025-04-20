@@ -1,0 +1,56 @@
+{
+  "artisans": [
+    {
+      "id": "1",
+      "name": "Rajesh Kumar",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      "story": "A third-generation master weaver from Varanasi, Rajesh learned the intricate art of Banarasi silk weaving from his father at the age of twelve. His family has been preserving this centuries-old craft for over 80 years, specializing in creating intricate Banarasi sarees that take months to complete.",
+      "craft": "Textile Weaving",
+      "location": "Varanasi, Uttar Pradesh",
+      "experience": "25 years",
+      "specialties": ["Banarasi Sarees", "Silk Scarves", "Traditional Weaving"],
+      "awards": ["National Handicraft Award 2020", "Master Weaver Recognition"],
+      "rating": 4.8,
+      "workshops": 12
+    },
+    {
+      "id": "2",
+      "name": "Maya Devi",
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+      "story": "Maya comes from a family of potters in Jaipur's ancient pottery quarter. She combines traditional Blue Pottery techniques with contemporary designs, making her work unique in the modern market. Her innovative approach has earned her recognition in international craft exhibitions.",
+      "craft": "Pottery",
+      "location": "Jaipur, Rajasthan",
+      "experience": "15 years",
+      "specialties": ["Blue Pottery", "Contemporary Designs", "Traditional Techniques"],
+      "awards": ["Best Artisan Award 2021", "Innovation in Craft"],
+      "rating": 4.9,
+      "workshops": 8
+    },
+    {
+      "id": "3",
+      "name": "Priya Sharma",
+      "photo": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+      "story": "A skilled jewelry artisan from Jaipur's famous jewelry quarter, Priya specializes in traditional Kundan and Meenakari techniques, creating pieces that blend centuries-old craftsmanship with modern aesthetics. Her work has been featured in several national exhibitions.",
+      "craft": "Jewelry",
+      "location": "Jaipur, Rajasthan",
+      "experience": "18 years",
+      "specialties": ["Kundan Work", "Meenakari", "Contemporary Jewelry"],
+      "awards": ["Excellence in Craftsmanship 2022"],
+      "rating": 4.7,
+      "workshops": 15
+    },
+    {
+      "id": "4",
+      "name": "Abdul Rahman",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "story": "Abdul learned the art of carpet weaving in Kashmir's renowned carpet workshops. His designs incorporate traditional Kashmiri motifs with sustainable materials, keeping the ancient art form relevant in modern times. His carpets are sought after by collectors worldwide.",
+      "craft": "Carpet Weaving",
+      "location": "Srinagar, Kashmir",
+      "experience": "30 years",
+      "specialties": ["Kashmiri Carpets", "Sustainable Materials", "Traditional Motifs"],
+      "awards": ["Lifetime Achievement in Craft", "Sustainable Artisan 2023"],
+      "rating": 4.9,
+      "workshops": 20
+    }
+  ]
+}

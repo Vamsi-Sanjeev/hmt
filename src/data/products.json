@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "p5",
+      "name": "Kundan Necklace Set",
+      "description": "Traditional Kundan necklace with matching earrings",
+      "price": 25000,
+      "artisanId": "3",
+      "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a",
+      "category": "Jewelry"
+    },
+    {
+      "id": "p6",
+      "name": "Meenakari Earrings",
+      "description": "Hand-crafted Meenakari earrings with precious stones",
+      "price": 8000,
+      "artisanId": "3",
+      "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59",
+      "category": "Jewelry"
+    },
+    {
+      "id": "p7",
+      "name": "Kashmiri Silk Carpet",
+      "description": "Hand-knotted silk carpet with traditional Kashmiri patterns",
+      "price": 45000,
+      "artisanId": "4",
+      "image": "https://images.unsplash.com/photo-1594040226829-7f251ab46d80",
+      "category": "Carpets"
+    }
+  ]
+}

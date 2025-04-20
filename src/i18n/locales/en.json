@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "marketplace": "Marketplace",
+    "artisans": "Artisans",
+    "workshops": "Workshops",
+    "forum": "Forum",
+    "resources": "Resources",
+    "admin": "Admin"
+  },
+  "home": {
+    "title": "Discover Authentic Artisanal Crafts",
+    "subtitle": "Connect with skilled artisans, explore unique handcrafted products, and support local traditions.",
+    "meetArtisans": "Meet Our Artisans",
+    "exploreArtisans": "Explore artisans",
+    "shopMarketplace": "Shop Marketplace",
+    "viewProducts": "View products",
+    "joinWorkshops": "Join Workshops",
+    "browseWorkshops": "Browse workshops",
+    "whyChoose": "Why Choose CraftSense?",
+    "directImpact": "Direct Impact",
+    "directImpactDesc": "90% of your purchase goes directly to artisans",
+    "authenticCrafts": "Authentic Crafts",
+    "authenticCraftsDesc": "Handmade products with cultural significance",
+    "communitySupport": "Community Support",
+    "communitySupportDesc": "Join a growing community of craft enthusiasts"
+  },
+  "marketplace": {
+    "title": "Artisanal Marketplace",
+    "subtitle": "Discover unique handcrafted pieces that blend traditional craftsmanship with contemporary design.",
+    "searchPlaceholder": "Search products...",
+    "addToCart": "Add to Cart",
+    "goesToArtisan": "goes to artisan",
+    "addedToCart": "added to cart"
+  },
+  "artisans": {
+    "title": "Meet Our Master Artisans",
+    "subtitle": "Discover skilled craftspeople preserving traditional techniques while creating contemporary pieces. Each artisan brings generations of expertise and cultural heritage to their work.",
+    "searchPlaceholder": "Search by name, location, or specialty...",
+    "viewProfile": "View Profile",
+    "specialties": "Specialties",
+    "awards": "Awards",
+    "workshops": "Workshops",
+    "story": "Story",
+    "location": "Location",
+    "rating": "Rating",
+    "featuredProducts": "Featured Products"
+  },
+  "workshops": {
+    "title": "Workshop Portal",
+    "subtitle": "Join expert-led workshops to enhance your craft skills, learn business strategies, and connect with fellow artisans.",
+    "joinLiveSession": "Join Live Session",
+    "downloadCertificate": "Download Certificate",
+    "instructor": "Instructor",
+    "duration": "Duration",
+    "free": "Free",
+    "price": "Price"
+  },
+  "forum": {
+    "title": "Community Forum",
+    "subtitle": "Connect with fellow artisans, share knowledge, and get answers to your craft-related questions.",
+    "createPost": "Create a New Post",
+    "postTitle": "Post Title",
+    "postContent": "What's on your mind?",
+    "imageUrl": "Image URL (optional)",
+    "submit": "Post Discussion",
+    "comments": "Comments",
+    "addComment": "Add a comment..."
+  },
+  "resources": {
+    "title": "Resource Library",
+    "subtitle": "Access curated learning materials, guides, and government schemes to enhance your craft skills and grow your business.",
+    "searchPlaceholder": "Search resources...",
+    "openResource": "Open Resource",
+    "categories": {
+      "all": "All",
+      "craft": "Craft",
+      "digital": "Digital",
+      "business": "Business",
+      "government": "Government"
+    }
+  }
+}
